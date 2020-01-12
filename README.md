@@ -1,6 +1,6 @@
 # PyCalc #
 
-     A simple calculator made using [tkinter](https://wiki.python.org/moin/TkInter)
+     A simple calculator made using tkinter
 ## Features ##
      Cross-platform
      
