@@ -5,5 +5,5 @@
 ## Features ##
      Cross-platform
      
-     Performs basic mathematical operations
+     Performs basic mathematical operations.
     
